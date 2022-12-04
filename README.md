@@ -21,7 +21,8 @@ https://forest-elephant-f34.notion.site/Applikasi-Booking-92dba0adc4a54dcbb43ea6
 3. Figma:
 https://www.figma.com/file/YP8nB2qS4vRJG7fJYU8PBD/Final-Project-3?t=umOD7Sv8BJTVJrpg-0
 4. Trello:
-- 
+https://trello.com/invite/b/XbZ6yHf9/ATTId61c2eab8b61c3a665f557add9d50795A6BD1B92/final-project-3
+
 
 
 ## Tech Stack
