@@ -1,5 +1,5 @@
 
-# Website News
+# Bookings Apps
 
 Pada projek ini kami ditugaskan untuk melakukan tugas akhir yang berbentuk apllikasi react native. apps ini bertemakan Booking Hotel yang menggunakan API publik dari Rapid API.  
 versi lengkap dokumentasi : [notion](https://forest-elephant-f34.notion.site/Applikasi-Booking-92dba0adc4a54dcbb43ea63fe4428257)
